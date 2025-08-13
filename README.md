@@ -1,2 +1,2 @@
-# gerenciador-tarefas
-um aplicativo simples para gerenciar tarefas, os usuários podem adicionar, visualizar e excluir tarefas de usuo pessoal
+# gerencidor-tarefas
+Um aplicativo simples para gerênciar tarefas, os usuários podem adicionar, visualizar, atualizar e excluir tarefas de sua lista pessoal
